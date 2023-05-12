@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+      "title": "Buy groceries",
+      "body": "Buy for today's dinner and fruits",
+      "createdAt": "11/20/2021, 5:39:07 PM",
+      "updatedAt": "11/20/2021, 5:39:07 PM"
+    },
+    {
+      "title": "Buy stationery",
+      "body": "Buy pencil, scale, pen and paper",
+      "id": "51233d3a-c3d4-44f6-b340-1b060b26b642",
+      "createdAt": "10/5/2023, 1:10:28 pm",
+      "updatedAt": "10/5/2023, 1:10:28 pm"
+    },
+    {
+      "title": "Go to gym",
+      "body": "Go to gym and do for legs or biceps & triceps",
+      "id": "df229dc4-ceac-4777-a04d-236085ba1a6e",
+      "createdAt": "11/5/2023, 5:31:43 am",
+      "updatedAt": "12/5/2023, 7:26:00 am"
+    },
+    {
+      "title": "Clean the room",
+      "body": "Sweep the room, mop the room using lizol and dettol",
+      "id": "d95a67bc-9482-40fa-8569-5084f6c36880",
+      "createdAt": "12/5/2023, 6:39:05 am",
+      "updatedAt": "12/5/2023, 6:39:05 am"
+    }
+  ]
+}
